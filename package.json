@@ -1,7 +1,7 @@
 {
   "name": "symbol-registry",
   "version": "0.1.0",
-  "description": "Cache system for symbols as constants",
+  "description": "Cache system for symbols",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git@github.com:PillowPillow/symbol-registry"
   },
+  "keywords": [
+    "NodeJS",
+    "Symbol",
+    "Cache",
+    "Storage"
+  ],
   "author": "Nicolas Gaignoux",
   "license": "MIT",
   "devDependencies": {
