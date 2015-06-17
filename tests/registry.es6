@@ -13,7 +13,7 @@ describe('Registry', function() {
 		expect(key).to.be.not.equal(newKey);
 	})
 
-	describe('Case insensitive', function() {
+	describe('Case sensitive', function() {
 
 		it('should return a new symbol', function() {
 			var key = registry('foobar');
