@@ -1,4 +1,5 @@
 # symbol-registry 
+Cache system for es6 symbols
 =======================
 
 ### Installation
